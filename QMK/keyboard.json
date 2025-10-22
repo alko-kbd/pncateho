@@ -1,0 +1,51 @@
+{
+  "keyboard_name": "pncateho",
+  "manufacturer": "aroum",
+  "url": "",
+  "maintainer": "aroum",
+  "usb": {
+    "vid": "0x4453",
+    "pid": "0x0741",
+    "device_version": "0.3.0"
+  },
+  "processor": "RP2040",
+  "bootloader": "rp2040",
+  "matrix_pins": {
+    "direct": [
+        ["GP0", "GP1", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7", "GP8", "GP9"]
+    ]       
+  },
+  "layouts": {
+    "LAYOUT": {
+        "layout": [
+            { "matrix": [0, 0], "x": 0, "y": 0 },
+            { "matrix": [0, 1], "x": 1, "y": 0 },
+            { "matrix": [0, 2], "x": 2, "y": 0 },
+            { "matrix": [0, 3], "x": 3, "y": 0 },
+            { "matrix": [0, 4], "x": 4, "y": 0 },
+            { "matrix": [0, 5], "x": 0, "y": 1 },
+            { "matrix": [0, 6], "x": 1, "y": 1 },
+            { "matrix": [0, 7], "x": 2, "y": 1 },
+            { "matrix": [0, 8], "x": 3, "y": 1 },
+            { "matrix": [0, 9], "x": 4, "y": 1 }
+        ]
+    }
+  },
+  "ws2812": {
+      "driver": "vendor"
+  },
+  "rgb_matrix": {
+      "layout": [
+          {"matrix": [0, 0],"x": 176, "y": 48, "flags": 4},
+          {"matrix": [0, 1],"x": 144, "y": 48, "flags": 4},
+          {"matrix": [0, 2],"x": 144, "y": 32, "flags": 4}
+          {"matrix": [0, 3],"x": 112, "y": 32, "flags": 4},
+          {"matrix": [0, 4],"x": 80, "y": 32, "flags": 4},
+          {"matrix": [0, 5],"x": 48, "y": 32, "flags": 4},
+          {"matrix": [0, 6],"x": 48, "y": 16, "flags": 4},
+          {"matrix": [0, 7],"x": 80, "y": 16, "flags": 4},
+          {"matrix": [0, 8],"x": 112, "y": 16, "flags": 4},
+          {"matrix": [0, 9],"x": 144, "y": 16, "flags": 4}
+      ]
+  }
+}
