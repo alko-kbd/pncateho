@@ -6,5 +6,5 @@ Handwired fork PNCANEHO by aroum [https://github.com/aroum/PNCATEHO]
 
 ## QMK
 
-* copy folder QMK/PNCATEHO to qmk/keyboards
-* run ```qmk compile -kb PNCATEHO -km default```
+* copy folder QMK to qmk/keyboards/alko/pncateho
+* run ```qmk compile -kb alko/pncateho -km default```
