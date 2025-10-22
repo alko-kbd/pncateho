@@ -1,6 +1,6 @@
-# PNCANEHO
+# PNCATEHO
 
-Handwired fork PNCANEHO by aroum [https://github.com/aroum/PNCATEHO]
+Handwired fork PNCATEHO by aroum [https://github.com/aroum/PNCATEHO]
 
 ![Handwired PNCATEHO](https://cornedeon.ru/img/pncateho_1s.jpg)
 
