@@ -10,5 +10,14 @@ Handwired fork PNCATEHO by aroum [https://github.com/aroum/PNCATEHO]
 
 ## QMK
 
-* copy folder QMK to qmk/keyboards/alko/pncateho
+* copy folder pncateho to qmk/keyboards/alko/pncateho
 * run ```qmk compile -kb alko/pncateho -km default```
+* flash file alko_pncateho_default.uf2 to your rp2040
+
+## Vial
+
+* copy folder pncateho to qmk-vial/keyboards/alko/pncateho
+* run ```qmk compile -kb alko/pncateho -km default```
+* flash file alko_pncateho_vial.uf2 to your rp2040
+* run vial app (or open https://vial.rocks) load pncateho.vil
+
