@@ -6,7 +6,7 @@ Handwired clon of PNCATEHO by aroum [https://github.com/aroum/PNCATEHO]
 
 ## Case
 
-![Thingiverse](https://www.thingiverse.com/thing:7178890): https://www.thingiverse.com/thing:7178890
+Thingiverse: https://www.thingiverse.com/thing:7178890
 
 ## QMK
 
