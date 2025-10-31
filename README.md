@@ -19,5 +19,5 @@ Handwired clon of PNCATEHO by aroum [https://github.com/aroum/PNCATEHO]
 * copy folder pncateho to qmk-vial/keyboards/alko/pncateho
 * run ```qmk compile -kb alko/pncateho -km default```
 * flash file alko_pncateho_vial.uf2 to your rp2040
-* run vial app (or open https://vial.rocks) load pncateho.vil
+* run vial app (or open https://vial.rocks) and load pncateho.vil
 
